@@ -10,7 +10,7 @@
 ### 🛠️ My Digital Arsenal (Tech Stack)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,figma,vscode,git,github,vercel,ps,ai,pr,ae,discord,nodejs,npm,php,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,vscode,git,github,vercel,nodejs,php,mysql&theme=dark" />
   </a>
 </p>
 ---
