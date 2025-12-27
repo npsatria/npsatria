@@ -11,7 +11,7 @@
 ---
 
 ### PROFILE
-I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, Indonesia. As a Front-End Developer and UI/UX Enthusiast, I focus on building functional and aesthetically pleasing web interfaces. I am committed to continuous learning and refining my technical skills through real-world projects and specialized training.
+I am Ngakan Putu Satria Dewangga or Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, Indonesia. As a Front-End Developer and UI/UX Enthusiast, I focus on building functional and aesthetically pleasing web interfaces. I am committed to continuous learning and refining my technical skills through real-world projects and specialized training.
 
 ---
 
