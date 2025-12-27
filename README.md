@@ -39,7 +39,7 @@ I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast
 </p>
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <i>“Don’t comment bad code – rewrite it.” – Brian Kernighan</i>
 </p>
 
 ---
