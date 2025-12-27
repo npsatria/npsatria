@@ -12,8 +12,7 @@
 ### 🌑 Profile
 I am a creative developer based in **Bali**, specializing in building high-quality websites and intuitive user interfaces. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🎓 **Education**: Information Technology Student at **[Isi Nama Kampus/Sekolah]**
-- 🏢 **Student Company**: Lead Developer at **[Isi Nama Organisasi]**
+- 🎓 **Education**: SMK TI BALI GLOBAL DENPASAR
 - 📍 **Location**: Bali, Indonesia
 
 ---
