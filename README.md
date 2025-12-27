@@ -34,14 +34,14 @@ I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast 
 
 ### CONTRIBUTION FACTS & DATA
 <p align="center">
-  <!-- GitHub Streak Stats menggunakan server Vercel yang lebih stabil -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=npsatria&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="Streak Stats" />
+  <!-- Link ini menggunakan server terbaru & paling stabil (Anti-Ilang) -->
+  <img src="https://streak-stats.demolab.com/?user=npsatria&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph tanpa nama, hanya judul "Contribution Graph" -->
+  <!-- Grafik tanpa nama, hanya judul "Contribution Graph" -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
-</p>
+</p
 
 ---
 
