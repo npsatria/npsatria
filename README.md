@@ -12,13 +12,13 @@
 ---
 
 ### PROFILE
-I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast at **SMK TI Bali Global Denpasar**. Based in Bali, I focus on crafting functional and aesthetic web interfaces while constantly refining my craft through real-world projects and specialized training.
+I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast currently studying at **SMK TI Bali Global Denpasar**. Based in Bali, Indonesia, I specialize in crafting web interfaces that bridge the gap between seamless functionality and aesthetic design. I am deeply committed to continuous growth, constantly refining my technical expertise through specialized training and real-world digital projects.
 
 ---
 
 ### ACADEMIES & CREDENTIALS
 <p align="left">
-<a href="https://id.timedoor.net/" target="_blank"><img src="https://img.shields.io/badge/TIMEDOOR%20ACADEMY-000000?style=for-the-badge&logoColor=white" alt="Timedoor" /></a><a href="https://www.dicoding.com/" target="_blank"><img src="https://img.shields.io/badge/DICODING-000000?style=for-the-badge&logo=dicoding&logoColor=white" alt="Dicoding" /></a><a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/UDEMY-000000?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" /></a><a href="https://www.kelasfullstack.id/" target="_blank"><img src="https://img.shields.io/badge/KELASFULLSTACK.ID-000000?style=for-the-badge&logoColor=white" alt="Kelasfullstack" /></a>
+<a href="https://id.timedoor.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TIMEDOOR%20ACADEMY-000000?style=for-the-badge&logoColor=white" alt="Timedoor" /></a><a href="https://www.dicoding.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DICODING-000000?style=for-the-badge&logo=dicoding&logoColor=white" alt="Dicoding" /></a><a href="https://www.udemy.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/UDEMY-000000?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" /></a><a href="https://www.kelasfullstack.id/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/KELASFULLSTACK.ID-000000?style=for-the-badge&logoColor=white" alt="Kelasfullstack" /></a>
 </p>
 
 ---
@@ -34,14 +34,7 @@ I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast 
 
 ### CONTRIBUTION GRAPH
 <p align="center">
-  <!-- GitHub Stats Card: Jauh lebih stabil daripada Streak Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=npsatria&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true" width="49%" />
-  <!-- Top Languages: Menunjukkan fakta skill kamu secara otomatis -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npsatria&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="45%" />
-</p>
-
-<p align="center">
-  <!-- Activity Graph: Grafik yang sudah terbukti jalan di profilmu -->
+  <!-- GitHub Activity Graph: Tetap pakai yang paling detail per bulan/tahun -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false&custom_title=Contribution%20Graph" width="100%" />
 </p>
 
@@ -53,7 +46,7 @@ I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast 
 
 ### CONTACT
 <p align="left">
-<a href="mailto:dewangga.satria09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/npsatria" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://instagram.com/satriadwangga__" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:dewangga.satria09@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/npsatria" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://instagram.com/satriadwangga__" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
