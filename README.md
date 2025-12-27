@@ -12,7 +12,7 @@
 ---
 
 ### PROFILE
-I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast currently studying at **SMK TI Bali Global Denpasar**. Based in Bali, Indonesia, I specialize in crafting web interfaces that bridge the gap between seamless functionality and aesthetic design. I am deeply committed to continuous growth, constantly refining my technical expertise through specialized training and real-world digital projects.
+I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast at **SMK TI Bali Global Denpasar**. Based in Bali, I focus on crafting functional and aesthetic web interfaces while constantly refining my craft through real-world projects and specialized training.
 
 ---
 
@@ -32,16 +32,15 @@ I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast
 
 ---
 
-### CONTRIBUTION GRAPH
+### CONTRIBUTION FACTS & DATA
 <p align="center">
-  <!-- Kita gunakan Snake dengan skema warna B&W (Minimalis & Sangat Stabil) -->
-  <img src="https://raw.githubusercontent.com/npsatria/npsatria/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <!-- GitHub Streak Stats: Simple & Bold -->
+  <img src="https://streak-stats.demolab.com/?user=npsatria&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <!-- Ini adalah statistik dalam bentuk badge yang 100% stabil untuk menunjukkan 'Fakta & Angka' -->
-  <img src="https://img.shields.io/badge/Total_Commits-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Stars-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Activity Graph: Simple tanpa nama di judul -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
