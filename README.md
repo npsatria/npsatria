@@ -48,6 +48,7 @@ I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast
 <a href="mailto:dewangga.satria09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/npsatria" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://instagram.com/satriadwangga__" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
+
 ---
 
 <p align="center">
