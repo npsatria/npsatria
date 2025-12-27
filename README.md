@@ -54,4 +54,4 @@ I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=60&section=footer" width="100%"/>
-</p>**
+</p>
