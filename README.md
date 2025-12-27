@@ -1,5 +1,6 @@
+<!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Om+Swastiastu!;I'm+Satria+Dewangga.;Front-End+Developer.;UI%2FUX+Enthusiast." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Om+Swastiastu!;I'm+Satria+Dewangga.;Front-End+Developer.;UI%2FUX+Enthusiast." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +12,7 @@
 ---
 
 ### PROFILE
-I am Ngakan Putu Satria Dewangga or Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, Indonesia. As a Front-End Developer and UI/UX Enthusiast, I focus on building functional and aesthetically pleasing web interfaces. I am committed to continuous learning and refining my technical skills through real-world projects and specialized training.
+I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast currently studying at **SMK TI Bali Global Denpasar**. Based in Bali, Indonesia, I specialize in crafting web interfaces that bridge the gap between seamless functionality and aesthetic design. I am deeply committed to continuous growth, constantly refining my technical expertise through specialized training and real-world digital projects.
 
 ---
 
@@ -33,13 +34,15 @@ I am Ngakan Putu Satria Dewangga or Satria Dewangga, a student at SMK TI Bali Gl
 
 ### CONTRIBUTION FACTS & DATA
 <p align="center">
-  <!-- GitHub Streak Stats: Sangat stabil untuk menunjukkan fakta angka kontribusi -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npsatria&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npsatria&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph: Data kompleks per bulan/tahun -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
 </p>
 
 ---
