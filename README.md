@@ -21,7 +21,7 @@ I am a creative developer based in **Bali**, specializing in building high-quali
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,figma,vscode,git,github,nodejs,mysql,php,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,tailwind,js,figma,vscode,git,github,nodejs,mysql,php,vercel&theme=dark" />
   </a>
 </p>
 
