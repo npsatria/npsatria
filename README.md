@@ -1,20 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Om+Swastiastu!;I'm+Satria+Dewangga.;Web+Developer.;UI%2FUX+Enthusiast." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Om+Swastiastu!;I'm+Satria+Dewangga.;Front-End+Developer.;UI%2FUX+Enthusiast." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-STUDENT-white?style=flat-square&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=npsatria&color=000000&style=flat-square&label=VISITORS" alt="views" />
+  <img src="https://img.shields.io/badge/ROLE-FRONT--END_DEV-000000?style=flat-square&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=npsatria&color=000000&style=flat-square&label=PROFILE_VIEWS" alt="views" />
 </p>
 
 ---
 
 ### PROFILE
-I'm Satria Dewangga. I am a student at **SMK TI Bali Global Denpasar** based in **Bali, Indonesia**. I am a Web Developer and UI/UX Enthusiast who loves building clean websites and functional user interfaces. I focus on learning modern technologies and improving my design skills every day.
+I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, Indonesia. As a Front-End Developer and UI/UX Enthusiast, I focus on building functional and aesthetically pleasing web interfaces. I am committed to continuous learning and refining my technical skills through real-world projects and specialized training.
 
 ---
 
-### ACADEMY & LEARNING
+### ACADEMY & CERTIFICATIONS
 <p align="left">
   <img src="https://img.shields.io/badge/Timedoor_Academy-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Dicoding-000000?style=for-the-badge&logo=dicoding&logoColor=white" />
@@ -33,7 +34,12 @@ I'm Satria Dewangga. I am a student at **SMK TI Bali Global Denpasar** based in 
 
 ---
 
-### ACTIVITY GRAPH
+### CONTRIBUTION FACTS & DATA
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=npsatria&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npsatria&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" width="45%" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false" width="100%" />
 </p>
