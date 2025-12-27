@@ -28,7 +28,8 @@ I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,nextjs,tailwind,vite,supabase,firebase,figma,git,github,vercel&theme=dark" />
   </a>
-  <img src="https://img.shields.io/badge/-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="48" style="vertical-align:top; margin-left: -4px;" />
+  <br>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
