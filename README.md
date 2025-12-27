@@ -28,7 +28,7 @@ I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, In
 ### TECH STACK
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c++,react,nextjs,tailwind,figma,git,github,vercel,supabase,&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c++,react,nextjs,vitejs,python,tailwind,figma,git,github,vercel,supabase,&theme=dark&perline=8" />
   </a>
 </p>
 
