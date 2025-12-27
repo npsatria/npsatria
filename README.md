@@ -17,10 +17,10 @@ I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, In
 
 ### ACADEMY & CERTIFICATIONS
 <p align="left">
-  <img src="https://img.shields.io/badge/Timedoor_Academy-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dicoding-000000?style=for-the-badge&logo=dicoding&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kelasfullstack.id-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIMEDOOR%20ACADEMY-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DICODING-000000?style=for-the-badge&logo=dicoding&logoColor=white" />
+  <img src="https://img.shields.io/badge/UDEMY-000000?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/KELASFULLSTACK.ID-000000?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
