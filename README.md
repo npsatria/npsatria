@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Om+Swastiastu.;Satria+Dewangga.;Web+Developer.;UI%2FUX+Designer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Om+Swastiastu!;I'm+Satria+Dewangga.;Web+Developer.;UI%2FUX+Designer." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### PROFILE
-I am a creative developer based in Bali, specializing in building high-quality websites and intuitive user interfaces. I focus on turning complex problems into simple, functional, and aesthetic digital solutions.
+I'm Satria Dewangga. I am a creative developer based in Bali, specializing in building high-quality websites and intuitive user interfaces. I focus on turning complex problems into simple, functional, and aesthetic digital solutions.
 
 *   **Education**: SMK TI Bali Global Denpasar
 *   **Location**: Bali, Indonesia
