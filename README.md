@@ -34,19 +34,17 @@ I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, In
 
 ---
 
----
-
 ### CONTRIBUTION FACTS & DATA
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npsatria&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npsatria&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="45%" alt="Top Languages" />
+  <!-- GitHub Streak Stats: Sangat stabil untuk menunjukkan fakta angka kontribusi -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npsatria&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- Activity Graph: Data kompleks per bulan/tahun -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false" width="100%" />
 </p>
 
----
 ---
 
 ### CONTACT
