@@ -18,16 +18,16 @@ I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, In
 ### ACADEMIES & CREDENTIALS
 <p align="left">
   <a href="https://id.timedoor.net/" target="_blank">
-    <img src="https://img.shields.io/badge/TIMEDOOR%20ACADEMY-000000?style=for-the-badge&logoColor=white" alt="Timedoor" />
-  </a>
-  <a href="https://www.dicoding.com/" target="_blank">
-    <img src="https://img.shields.io/badge/DICODING-000000?style=for-the-badge&logoColor=white" alt="Dicoding" />
-  </a>
-  <a href="https://www.udemy.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TIMEDOOR%20ACADEMY-000000?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Timedoor" />
+  </a><!--
+  --><a href="https://www.dicoding.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DICODING-000000?style=for-the-badge&logo=dicoding&logoColor=white" alt="Dicoding" />
+  </a><!--
+  --><a href="https://www.udemy.com/" target="_blank">
     <img src="https://img.shields.io/badge/UDEMY-000000?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
-  </a>
-  <a href="https://www.kelasfullstack.id/" target="_blank">
-    <img src="https://img.shields.io/badge/KELASFULLSTACK.ID-000000?style=for-the-badge&logoColor=white" alt="Kelasfullstack" />
+  </a><!--
+  --><a href="https://www.kelasfullstack.id/" target="_blank">
+    <img src="https://img.shields.io/badge/KELASFULLSTACK.ID-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Kelasfullstack" />
   </a>
 </p>
 
@@ -60,15 +60,14 @@ I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, In
 <p align="left">
   <a href="mailto:dewangga.satria09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  </a><!--
+  --><a href="https://linkedin.com/in/npsatria" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/satriadwangga__" target="_blank">
+  </a><!--
+  --><a href="https://instagram.com/satriadwangga__" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 <p align="center">
