@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend_Development-white?style=flat-square&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=npsatria&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=npsatria&color=000000&style=flat-square&label=VISITORS" alt="views" />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 ### 🌑 Profile
 I am a creative developer based in **Bali**, specializing in building high-quality websites and intuitive user interfaces. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🎓 **Education**: Information Technology Student at [Nama Sekolah/Universitas Kamu]
-- 🏢 **Organization**: [Nama Student Company/Organisasi Kamu]
+- 🎓 **Education**: Information Technology Student at **[Isi Nama Kampus/Sekolah]**
+- 🏢 **Student Company**: Lead Developer at **[Isi Nama Organisasi]**
 - 📍 **Location**: Bali, Indonesia
 
 ---
@@ -27,10 +27,10 @@ I am a creative developer based in **Bali**, specializing in building high-quali
 
 ---
 
-### 🌌 3D Contribution Map
+### 🌌 Activity Graph
 <p align="center">
-  <!-- Ini adalah link API yang akan otomatis mengambil data kontribusi kamu secara 3D -->
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=npsatria&theme=dark&background=00000000" width="100%" />
+  <!-- Grafik ini lebih stabil dan pasti muncul dengan tema B&W -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false" width="100%" />
 </p>
 
 <p align="center">
