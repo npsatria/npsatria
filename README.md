@@ -1,20 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Om+Swastiastu;I'm+Satria+Dewangga.;Web+Developer.;UI%2FUX+Designer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Om+Swastiastu!+I'm+Satria+Dewangga.;Web+Developer.;UI%2FUX+Designer." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-FRONTEND_DEVELOPMENT-white?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-FRONTEND_ENGINEERING-white?style=flat-square&logoColor=black" />
   <img src="https://komarev.com/ghpvc/?username=npsatria&color=000000&style=flat-square&label=PROFILE_VIEWS" alt="views" />
 </p>
 
 ---
 
 ### PROFILE
-I'm Satria Dewangga. I am a creative developer based in Bali, specializing in building high-quality websites and intuitive user interfaces. I focus on turning complex problems into simple, functional, and aesthetic digital solutions.
+Nice to meet you! I'm Satria Dewangga, a creative developer based in Bali specializing in building high-quality websites and intuitive user interfaces. I graduated from SMK TI Bali Global Denpasar where I first began my journey into the world of digital architecture. 
 
-*   **Education**: SMK TI Bali Global Denpasar
-*   **Location**: Bali, Indonesia
-*   **Role**: Frontend Developer & UI/UX Designer
+Currently, I focus on turning complex technical problems into simple, functional, and aesthetic digital solutions. I have dedicated my time to refining my craft through various professional programs, including intensive training at Timedoor Academy, Dicoding, and Kelasfullstack.id. I am passionate about bridging the gap between clean code and exceptional design.
 
 ---
 
