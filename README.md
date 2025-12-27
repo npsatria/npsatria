@@ -55,14 +55,8 @@ I am Satria Dewangga, a student at SMK TI Bali Global Denpasar based in Bali, In
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
   <a href="https://instagram.com/satriadwangga__" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.tiktok.com/@fvkingchuloo" target="_blank">
-    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 
