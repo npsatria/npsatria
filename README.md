@@ -18,7 +18,7 @@ Saya adalah seorang **Web Developer** & **UI/UX Designer** yang berbasis di **Ba
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,github,vercel,vscode,adobeai,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
   </a>
 </p>
 
