@@ -12,7 +12,7 @@
 ---
 
 ### PROFILE
-I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast currently studying at **SMK TI Bali Global Denpasar**. Based in Bali, Indonesia, I specialize in crafting web interfaces that bridge the gap between seamless functionality and aesthetic design. I am deeply committed to continuous growth, constantly refining my technical expertise through specialized training and real-world digital projects.
+I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast at **SMK TI Bali Global Denpasar**. Based in Bali, I focus on crafting functional and aesthetic web interfaces while constantly refining my craft through real-world projects and specialized training.
 
 ---
 
