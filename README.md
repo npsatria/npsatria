@@ -34,13 +34,17 @@ I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast 
 
 ### CONTRIBUTION FACTS & DATA
 <p align="center">
-  <!-- GitHub Streak Stats: Simple & Bold -->
-  <img src="https://streak-stats.demolab.com/?user=npsatria&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="Streak Stats" />
+  <!-- Design Streak Stats Terbaru: Outlined & Minimalist -->
+  <img src="https://streak-stats.demolab.com/?user=npsatria&theme=dark&background=00000000&hide_border=false&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=ffffff" width="100%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph: Simple tanpa nama di judul -->
+  <!-- Activity Graph tanpa nama -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
 </p>
 
 ---
