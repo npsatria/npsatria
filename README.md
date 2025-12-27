@@ -32,7 +32,7 @@ I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast 
 
 ---
 
-### CONTRIBUTION FACTS & DATA
+### CONTRIBUTION 
 <p align="center">
   <!-- Design Streak Stats Terbaru: Outlined & Minimalist -->
   <img src="https://streak-stats.demolab.com/?user=npsatria&theme=dark&background=00000000&hide_border=false&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=ffffff" width="100%" alt="Streak Stats" />
@@ -44,7 +44,7 @@ I'm **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast 
 </p>
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <i>"If it hasn’t been tested, it doesn’t work."</i>
 </p>
 
 ---
