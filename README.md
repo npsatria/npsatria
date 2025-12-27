@@ -10,10 +10,9 @@
 ### 🛠️ My Digital Arsenal (Tech Stack)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nextjs,tailwind,vscode,git,github,vercel,ps&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,figma,vscode,git,github,vercel,ps,ai,pr,ae,discord,nodejs,npm,php,mysql&theme=dark" />
   </a>
 </p>
-
 ---
 
 ### 🎮 Contribution Snake
