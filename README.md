@@ -25,12 +25,9 @@ I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast
 
 ### TECH STACK
 <p align="left">
-  <!-- Skill Icons Utama -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,nextjs,tailwind,vite,supabase,firebase,figma,git,github,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,nextjs,tailwind,vite,supabase,firebase,figma,git,github,vercel,jupyter&theme=dark" />
   </a>
-  <!-- Ikon Google Colab Manual (Shields.io) -->
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="50" style="vertical-align:top; margin-left: -5px;" />
 </p>
 
 ---
