@@ -40,10 +40,6 @@ I am **Ngakan Putu Satria Dewangga**, a Front-End Developer and UI/UX Enthusiast
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=npsatria&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false&custom_title=Contribution%20Graph" width="100%" />
 </p>
 
-<p align="center">
-  <i>“Don’t comment bad code – rewrite it.” – Brian Kernighan</i>
-</p>
-
 ---
 
 ### CONTACT
